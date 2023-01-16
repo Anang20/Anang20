@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anang Syah Amirul Haqim
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js and next js
+- 🌱 I’m currently learning vue js,react js and next js
 - 📫 How to reach me: whatsapp +6289670068639
 
 <!---
