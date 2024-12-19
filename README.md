@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anangsyah766@gmail.com**
 
-- ⚡ Fun fact **do you want to by one badminton with me?**
+- ⚡ Fun fact **do you want to play fc with me?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
